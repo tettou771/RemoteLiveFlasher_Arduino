@@ -32,7 +32,7 @@ class Flash {
     int pin;
     bool flashState;
     uint32_t flashStartTime;
-    static const uint32_t flashDuration = 100;
+    static const uint32_t flashDuration = 50;
 };
 
 #endif
